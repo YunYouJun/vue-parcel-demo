@@ -256,7 +256,7 @@ resolve: {
     // 路径别名
     alias: {
         '@': resolve('src'),
-        'vue$': 'vue/dist/vue.esm.js' // 这一个之后解释
+        'vue$': 'vue/dist/vue.esm.js' // 即此处
     }
 },
 ```
