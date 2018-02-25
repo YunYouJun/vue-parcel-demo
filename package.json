@@ -18,5 +18,9 @@
     "vue": "^2.5.13",
     "vue-router": "^3.0.1",
     "vue-template-compiler": "^2.5.13"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.0.0",
+    "postcss-modules": "^1.1.0"
   }
 }
