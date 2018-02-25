@@ -8,19 +8,18 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url /"
+    "build": "parcel build index.html --public-url ./"
   },
   "devDependencies": {
+    "autoprefixer": "^8.0.0",
     "babel-preset-env": "^1.6.1",
     "css-loader": "^0.28.9",
     "parcel-bundler": "^1.6.2",
     "parcel-plugin-vue": "^1.5.0",
+    "postcss-modules": "^1.1.0",
     "vue": "^2.5.13",
     "vue-router": "^3.0.1",
     "vue-template-compiler": "^2.5.13"
   },
-  "dependencies": {
-    "autoprefixer": "^8.0.0",
-    "postcss-modules": "^1.1.0"
-  }
+  "dependencies": {}
 }
