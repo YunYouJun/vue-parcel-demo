@@ -1,4 +1,4 @@
-# Vue=Parcel-Demo
+# Vue-Parcel-Demo
 
 小 demo ~
 

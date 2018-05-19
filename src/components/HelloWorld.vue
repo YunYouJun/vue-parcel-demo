@@ -8,40 +8,40 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docs
+          Vue
         </a>
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="https://yunyoujun.cn/note/vue-parcel-demo/"
           target="_blank"
         >
-          Forum
+          Note
         </a>
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="https://parceljs.org"
           target="_blank"
         >
-          Community Chat
+          Parcel
         </a>
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="https://github.com/YunYouJun"
           target="_blank"
         >
-          Twitter
+          @YunYouJun
         </a>
       </li>
       <br>
       <li>
         <a
-          href="http://vuejs-templates.github.io/webpack/"
+          href="https://github.com/YunYouJun/vue-parcel-demo"
           target="_blank"
         >
-          Docs for This Template
+          Demo
         </a>
       </li>
     </ul>
@@ -49,10 +49,10 @@
     <ul>
       <li>
         <a
-          href="http://router.vuejs.org/"
+          href="https://github.com/YunYouJun/give-me-money"
           target="_blank"
         >
-          vue-router
+          I'm cute!
         </a>
       </li>
       <li>
@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue.js + Parcel App'
     }
   }
 }
