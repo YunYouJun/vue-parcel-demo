@@ -7,19 +7,21 @@
   "author": "YunYouJun <me@yunyoujun.cn>",
   "license": "MIT",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html --public-url ./"
+    "start": "npm run dev",
+    "dev": "parcel index.html -p 2333 --open",
+    "build": "parcel build index.html --public-url ./ --no-cache"
   },
   "devDependencies": {
     "autoprefixer": "^8.0.0",
-    "babel-preset-env": "^1.6.1",
-    "css-loader": "^0.28.9",
-    "parcel-bundler": "^1.6.2",
-    "parcel-plugin-vue": "^1.5.0",
     "postcss-modules": "^1.1.0",
-    "vue": "^2.5.13",
+    "@vue/component-compiler-utils": "^1.2.1",
+    "babel-preset-env": "^1.7.0",
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1",
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0",
     "vue-router": "^3.0.1",
-    "vue-template-compiler": "^2.5.13"
+    "vue-template-compiler": "^2.5.16"
   },
   "dependencies": {}
 }
