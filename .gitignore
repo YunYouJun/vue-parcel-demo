@@ -1,6 +1,7 @@
 # Custom
 .cache
 dist
+.DS_Store
 
 # Logs
 logs
@@ -8,7 +9,6 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
 
 # Dependency directories
 node_modules/
@@ -18,4 +18,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
