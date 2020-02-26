@@ -9,13 +9,13 @@
         </a>
       </li>
       <li>
-        <a href="https://yunyoujun.cn/note/vue-parcel-demo/" target="_blank">
-          Note
+        <a href="https://parceljs.org" target="_blank">
+          Parcel
         </a>
       </li>
       <li>
-        <a href="https://parceljs.org" target="_blank">
-          Parcel
+        <a href="https://yunyoujun.cn/note/vue-parcel-demo/" target="_blank">
+          Note
         </a>
       </li>
       <li>
@@ -23,7 +23,6 @@
           @YunYouJun
         </a>
       </li>
-      <br />
       <li>
         <a href="https://github.com/YunYouJun/vue-parcel-demo" target="_blank">
           Demo

@@ -1,6 +1,6 @@
 # vue-parcel-demo
 
-![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/YunYouJun/vue-parcel-demo/dev/vue)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/YunYouJun/vue-parcel-demo/vue)
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/YunYouJun/vue-parcel-demo/dev/parcel-bundler)
 
 本项目为使用 Parcel 打包 Vue 的小 Demo，相比[官网](https://parceljs.org/vue.html) 提供的快速开始，可能更加接近工程（开发小应用）的项目结构。
